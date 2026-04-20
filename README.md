@@ -1,5 +1,7 @@
 # bantrwrld 🌱
 
+www.bantrwrld.com
+
 > I built bantrwrld to create an experience that allows people worldwide to go out and experience shared interests and activities — not just scroll through them.
 
 ## What is bantrwrld?
