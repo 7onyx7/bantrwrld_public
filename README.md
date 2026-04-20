@@ -72,12 +72,6 @@ cd backend && npm run db:migrate
 npm run dev:all
 ```
 
-**Local service URLs:**
-- Frontend: http://localhost:3000
-- Backend API: http://localhost:3001
-- MinIO console: http://localhost:9001
-- Mailhog UI: http://localhost:8025
-
 ## Project Status
 
 **Currently in active development** — web MVP nearing launch readiness.
